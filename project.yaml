@@ -1,7 +1,7 @@
 basic:
-    name: Hegmann-Feil
+    name: 'Dickens, Brown and Walsh'
     environments:
-        production: 'https://www.daniel.info/dolores-enim-sint-id-consequatur-ut-aut-assumenda'
+        production: 'https://www.wisozk.com/'
         staging: ''
         development: ''
     breakpoints:
